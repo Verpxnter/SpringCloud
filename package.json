@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Verpxnter/SpringCloud#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.6",
+    "postcss": "^8.5.26",
     "tailwindcss": "^3.4.17"
   },
   "dependencies": {
@@ -33,7 +33,7 @@
     "node-releases": "^2.0.20",
     "normalize-range": "^0.1.2",
     "picocolors": "^1.1.1",
-    "postcss-value-parser": "^4.2.0",
+    "postcss-value-parser": "^8.0.0",
     "source-map-js": "^1.2.1",
     "update-browserslist-db": "^1.1.3"
   }
